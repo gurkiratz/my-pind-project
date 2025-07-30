@@ -15,6 +15,10 @@
   --font-punjabi: 'OpenGurbaniAkhar', serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 html,
 body {
   @apply bg-white dark:bg-gray-950;
